@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    display:flex;
+    background-image: url(./img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.name_color{
+    color:rgb(247, 167, 19);
+}
+.header_half {
+	padding: 10px 96px;
+}
+.header_half_left {
+	width: 60%;
+}
+.header_half img{
+    height: 300px;;
+}
+.btn {
+	color: white;
+	text-decoration: none;
+	background-color: orange;
+	padding: 3px;
+}
